@@ -1,6 +1,6 @@
 # Powering up with React.js
 
-# Node
+## Node
 
 ```
 npm install
